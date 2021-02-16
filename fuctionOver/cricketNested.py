@@ -1,11 +1,11 @@
 cricket={
-    1:{"team":"england","pct":70.2,"points":442,"serise":6,"won":11,"lost":4,"drawn":3}
-    2:{"team":"nz","pct":70.0,"points":420,"serise":5,"won":7,"lost":4,"drawn":0}
-    3:{"team":"aust","pct":69.2,"points":332,"serise":4,"won":8,"lost":4,"drawn":2}
-    4:{"team":"India","pct":68.3,"points":430,"serise":6,"won":9,"lost":4,"drawn":1}
-    5:{"team":"pak","pct":43.3,"points":286,"serise":5.5,"won":4,"lost":5,"drawn":3}
-    6:{"team":"westind","pct":33.3,"points":160,"serise":4,"won":3,"lost":6,"drawn":0}
-    7:{"team":"southaf","pct":30.0,"points":144,"serise":4,"won":3,"lost":8,"drawn":0}
-    8:{"team":"srilank","pct":16.7,"points":80,"serise":4,"won":1,"lost":6,"drawn":1}
-    9:{"team":"bangla","pct":0.0,"points":0,"serise":2.5,"won":0,"lost":5,"drawn":0}
+    1:{"team":"england","pct":70.2,"points":442,"serise":6,"won":11,"lost":4,"drawn":3},
+    2:{"team":"nz","pct":70.0,"points":420,"serise":5,"won":7,"lost":4,"drawn":0},
+    3:{"team":"aust","pct":69.2,"points":332,"serise":4,"won":8,"lost":4,"drawn":2},
+    4:{"team":"India","pct":68.3,"points":430,"serise":6,"won":9,"lost":4,"drawn":1},
+    5:{"team":"pak","pct":43.3,"points":286,"serise":5.5,"won":4,"lost":5,"drawn":3},
+    6:{"team":"westind","pct":33.3,"points":160,"serise":4,"won":3,"lost":6,"drawn":0},
+    7:{"team":"southaf","pct":30.0,"points":144,"serise":4,"won":3,"lost":8,"drawn":0},
+    8:{"team":"srilank","pct":16.7,"points":80,"serise":4,"won":1,"lost":6,"drawn":1},
+    9:{"team":"bangla","pct":0.0,"points":0,"serise":2.5,"won":0,"lost":5,"drawn":0},
 }
